@@ -12,7 +12,7 @@ Assistant Professor, Marketing, Northeastern University
 ---
 
 ## **Overview**
-This repository contains tools and scripts developed for the marketing research project: **"Impact of Board Diversity on Branding and Marketing Diversity."** The study analyzed how **board-level diversity** (gender and race) influences **branding and marketing inclusivity**, covering **175 luxury brands** from **2015 to 2023**. 
+This repository contains tools and scripts developed for the marketing research project: **"Impact of Board Diversity on Branding and Marketing Diversity."** The study analyzed how **board-level diversity** (gender and race) influences **branding and marketing inclusivity**, covering **10 luxury brands** from **2015 to 2023**. 
 
 ---
 
