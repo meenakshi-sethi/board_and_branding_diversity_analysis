@@ -1,7 +1,7 @@
 # **Impact of Board Diversity on Branding and Marketing Diversity.**
 
 ## **Research Conducted By:**
-Meenakshi Sethi | Advisors: Dr. Mary Steffel and Dr. Amy Pei | Marketing Research, Northeastern University
+Meenakshi Sethi | **Advisors**: Dr. Mary Steffel and Dr. Amy Pei | Marketing Research, Northeastern University
 
 **Dr. Mary Steffel**  
 Associate Professor, Marketing; Joseph G. Riesman Research Professor, Northeastern University
